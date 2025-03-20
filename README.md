@@ -5,6 +5,8 @@
 1️⃣ Dependencies for WINDOWS & LINUX & VPS
 ```
 sudo apt update && sudo apt upgrade -y
+
+sudo apt install build-essential
 ```
 
 For VPS Only
